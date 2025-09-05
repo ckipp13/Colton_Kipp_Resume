@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Summary
-Analytical and detail-oriented Information Science graduate with a strong foundation in data analysis, pricing strategy, and database management. Skilled in Python, SQL, R, and Excel for modeling, validation, and automation. Experience supporting sales and pricing functions through accurate data extraction and logic review. Adept at identifying trends and analyzing data to develop informed business decisions.
+Analytical and detail-oriented Information Science graduate with a strong foundation in data analysis and visualization, pricing strategy, and database management. Skilled in Python, SQL, R, Tableau, and Excel for modeling, validation, and automation. Experience supporting data functions across database platforms, quality assurance, and sales operations, with a focus on accuracy, efficiency, and insight generation. Adept at identifying trends and analyzing data to develop informed business decisions.
 
 ---
 
