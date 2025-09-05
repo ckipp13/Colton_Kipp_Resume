@@ -1,6 +1,6 @@
 # Colton Kipp
 
-**Information Science Graduate | Data Analysis | Pricing Strategy | Database Management**
+**Information Science Graduate | Data Analysis | Data Visualization | Database Management**
 
 ---
 
